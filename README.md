@@ -1,4 +1,3 @@
-DualSense Pavilion Project - README
 Introduction
 The DualSense Pavilion is a custom-built interactive communication platform designed to simulate a real-time chat experience, focusing on the use of Socket.IO to enable real-time web functionality. The platform allows users to join rooms, send messages, and share their real-time location with others.
 
@@ -17,7 +16,7 @@ Backend:
 Node.js: Server-side environment to handle Socket.IO connections and user management.
 Socket.IO: Real-time communication library used for bi-directional communication between the client and the server.
 
-ey Features
+Key Features:
 Real-time Chat
 The core functionality of the DualSense Pavilion is real-time chat. Using Socket.IO, every message sent is instantly broadcasted to all users connected to the same chat room, allowing for seamless communication.
 
